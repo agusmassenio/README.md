@@ -82,7 +82,7 @@ JavaScript se utiliza con diversos frameworks y bibliotecas como React, Angular 
 
 
 
-##El Backend 
+## El Backend 
 
 se refiere a la parte del sistema que se encarga de procesar la lógica de la aplicación, gestionar la base de datos y realizar operaciones que no pueden ser realizadas directamente por el frontend (la parte que los usuarios ven e interactúan en sus navegadores).
 El backend es responsable de manejar las solicitudes del cliente (a través del frontend) y proporcionar las respuestas adecuadas. 
@@ -188,7 +188,7 @@ Cuando hablamos de integrar una API externa en el backend de una aplicación web
 
 
 
-##Interacciones HTTP:
+## Interacciones HTTP:
 
 
 En una aplicación web, las interacciones HTTP juegan un papel crucial en la comunicación entre el frontend (la interfaz de usuario que los usuarios ven en sus navegadores) y el backend (el servidor que maneja la lógica de la aplicación y la gestión de datos). Estas interacciones suelen involucrar solicitudes y respuestas HTTP para realizar operaciones como obtener datos, enviar datos, actualizar recursos, y más. Aquí hay algunas interacciones HTTP comunes en una aplicación web:
