@@ -1,3 +1,9 @@
+![Esta es una imagen de ejemplo](Captura de pantalla 2023-12-05 082843.png)
+
+
+
+
+
 ## El Frontend 
 
 en una aplicación web sirve para realizar la interfaz de un sitio web, desde su estructura hasta los estilos, como pueden ser la definición de los colores, texturas, tipografías, secciones, entre otros. Su uso es determinante para que el usuario tenga una buena experiencia dentro del sitio o aplicación.
