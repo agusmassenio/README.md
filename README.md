@@ -1,4 +1,4 @@
-![Esta es una imagen de ejemplo](Captura de pantalla 2023-12-05 082843.png)
+![Esta es una imagen de ejemplo](dibujo.png)
 
 
 
